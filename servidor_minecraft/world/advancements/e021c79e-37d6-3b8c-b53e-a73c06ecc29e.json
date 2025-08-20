@@ -1433,6 +1433,12 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/tools/fluix_sword": {
+    "criteria": {
+      "has_crystals/fluix": "2025-08-20 21:24:24 +0000"
+    },
+    "done": true
+  },
   "phantasm:recipes/tools/crystalline_shovel": {
     "criteria": {
       "has_stick": "2025-08-20 21:07:57 +0000"
@@ -1442,6 +1448,12 @@
   "ae2:recipes/misc/shaped/stairs/sky_stone_block": {
     "criteria": {
       "has_sky_stone_block": "2025-08-20 21:20:04 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/misc/fluixpearl": {
+    "criteria": {
+      "has_crystals/fluix": "2025-08-20 21:24:24 +0000"
     },
     "done": true
   },
@@ -1505,6 +1517,12 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/tools/fluix_upgrade_smithing_template": {
+    "criteria": {
+      "has_fluix_crystal": "2025-08-20 21:24:24 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/network/cables/covered_red": {
     "criteria": {
       "has_fluix_covered_cable": "2025-08-20 21:03:10 +0000"
@@ -1538,6 +1556,12 @@
   "ae2:recipes/misc/network/cables/dense_smart_blue": {
     "criteria": {
       "has_fluix_smart_dense_cable": "2025-08-20 21:12:48 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/decorative/fluix_block": {
+    "criteria": {
+      "has_fluix_crystal": "2025-08-20 21:24:24 +0000"
     },
     "done": true
   },
@@ -1601,6 +1625,12 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/tools/fluix_shovel": {
+    "criteria": {
+      "has_crystals/fluix": "2025-08-20 21:24:24 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_granite_brick_stairs_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-08-20 21:14:41 +0000"
@@ -1643,6 +1673,12 @@
     },
     "done": true
   },
+  "ae2:main/storage_bus": {
+    "criteria": {
+      "part": "2025-08-20 21:26:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite_stairs_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-08-20 21:14:41 +0000"
@@ -1652,6 +1688,12 @@
   "ae2:recipes/misc/network/cables/covered_purple": {
     "criteria": {
       "has_fluix_covered_cable": "2025-08-20 21:03:10 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/blocks/storage_chest": {
+    "criteria": {
+      "has_crystals/fluix": "2025-08-20 21:24:24 +0000"
     },
     "done": true
   },
@@ -1757,6 +1799,12 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/network/blocks/energy_energy_acceptor": {
+    "criteria": {
+      "has_crystals/fluix": "2025-08-20 21:24:24 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/network/cables/dense_smart_light_blue": {
     "criteria": {
       "has_fluix_smart_dense_cable": "2025-08-20 21:12:48 +0000"
@@ -1772,6 +1820,12 @@
   "minecraft:recipes/combat/wooden_sword": {
     "criteria": {
       "has_stick": "2025-08-20 21:07:57 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/blocks/spatial_io_pylon": {
+    "criteria": {
+      "has_crystals/fluix": "2025-08-20 21:24:24 +0000"
     },
     "done": true
   },
@@ -1853,6 +1907,12 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/network/parts/storage_bus": {
+    "criteria": {
+      "has_interface": "2025-08-20 21:26:00 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_granite_brick_wall_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-08-20 21:14:41 +0000"
@@ -1868,6 +1928,12 @@
   "ae2:recipes/misc/network/cables/dense_smart_red": {
     "criteria": {
       "has_fluix_smart_dense_cable": "2025-08-20 21:12:48 +0000"
+    },
+    "done": true
+  },
+  "ae2:main/fluix": {
+    "criteria": {
+      "certus": "2025-08-20 21:24:24 +0000"
     },
     "done": true
   },
@@ -1895,9 +1961,33 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/tools/fluix_hoe": {
+    "criteria": {
+      "has_crystals/fluix": "2025-08-20 21:24:24 +0000"
+    },
+    "done": true
+  },
   "phantasm:recipes/combat/crystalline_sword": {
     "criteria": {
       "has_stick": "2025-08-20 21:07:57 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/blocks/crystal_processing_charger": {
+    "criteria": {
+      "has_crystals/fluix": "2025-08-20 21:24:24 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/fluix_axe": {
+    "criteria": {
+      "has_crystals/fluix": "2025-08-20 21:24:24 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/blocks/interfaces_interface_part": {
+    "criteria": {
+      "has_interface": "2025-08-20 21:26:00 +0000"
     },
     "done": true
   },
@@ -1937,6 +2027,12 @@
     },
     "done": true
   },
+  "ae2:main/storage_cell": {
+    "criteria": {
+      "c4k": "2025-08-20 21:26:53 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/network/cables/covered_gray": {
     "criteria": {
       "has_fluix_covered_cable": "2025-08-20 21:03:10 +0000"
@@ -1949,6 +2045,12 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/network/blocks/controller": {
+    "criteria": {
+      "has_purified_fluix_crystal": "2025-08-20 21:24:24 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/network/cables/covered_lime": {
     "criteria": {
       "has_fluix_covered_cable": "2025-08-20 21:03:10 +0000"
@@ -1958,6 +2060,12 @@
   "ae2:recipes/misc/network/cables/covered_orange": {
     "criteria": {
       "has_fluix_covered_cable": "2025-08-20 21:03:10 +0000"
+    },
+    "done": true
+  },
+  "ae2:main/recursive": {
+    "criteria": {
+      "recursive": "2025-08-20 21:27:39 +0000"
     },
     "done": true
   },
@@ -1976,6 +2084,12 @@
   "ae2:recipes/misc/network/cables/dense_smart_green": {
     "criteria": {
       "has_fluix_smart_dense_cable": "2025-08-20 21:12:48 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/fluix_pickaxe": {
+    "criteria": {
+      "has_crystals/fluix": "2025-08-20 21:24:24 +0000"
     },
     "done": true
   },
@@ -2048,6 +2162,12 @@
   "ae2:recipes/misc/shaped/slabs/sky_stone_block": {
     "criteria": {
       "has_sky_stone_block": "2025-08-20 21:20:04 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/blocks/inscribers": {
+    "criteria": {
+      "has_crystals/fluix": "2025-08-20 21:24:24 +0000"
     },
     "done": true
   },
