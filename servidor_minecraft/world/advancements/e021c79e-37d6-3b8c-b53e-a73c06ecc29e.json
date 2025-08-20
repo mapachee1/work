@@ -1507,6 +1507,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/raw_iron_block": {
+    "criteria": {
+      "has_raw_iron": "2025-08-20 23:25:11 +0000"
+    },
+    "done": true
+  },
   "phantasm:recipes/tools/crystalline_shovel": {
     "criteria": {
       "has_stick": "2025-08-20 21:07:57 +0000"
@@ -2209,6 +2215,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2025-08-20 23:25:11 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/block_cutter/stairs/sky_stone_stairs": {
     "criteria": {
       "has_sky_stone_block": "2025-08-20 21:20:04 +0000"
@@ -2833,6 +2845,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2025-08-20 23:27:30 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/network/cells/fluid_storage_cell_4k": {
     "criteria": {
       "has_cell_component_4k": "2025-08-20 22:02:14 +0000"
@@ -2842,6 +2860,12 @@
   "sophisticatedbackpacks:recipes/misc/alchemy_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-08-20 22:39:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_coal": "2025-08-20 23:19:41 +0000"
     },
     "done": true
   },
@@ -2989,6 +3013,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2025-08-20 23:25:11 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/decorations/common/glass/yellow_clear_stained_glass_pane": {
     "criteria": {
       "has_block": "2025-08-20 23:06:42 +0000"
@@ -3016,6 +3046,12 @@
   "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
       "has_flint": "2025-08-20 22:54:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-08-20 23:27:30 +0000"
     },
     "done": true
   },
