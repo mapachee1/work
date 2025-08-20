@@ -1123,3 +1123,7 @@ Compiled Descriptor:
 [20Aug2025 21:52:25.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Set own game mode to Survival Mode]
 [20Aug2025 21:58:19.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Melosito_Neo has made the advancement [Shocking]
 [20Aug2025 22:12:54.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Melosito_Neo has made the advancement [Network Aesthetics]
+[20Aug2025 22:37:39.947] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-81, y=67, z=-1107} BlockPos{x=-82, y=66, z=-1108}
+[20Aug2025 22:37:40.009] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-81, y=67, z=-1107} BlockPos{x=-82, y=66, z=-1108}
+[20Aug2025 22:37:40.039] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-81, y=67, z=-1107} BlockPos{x=-82, y=66, z=-1108}
+[20Aug2025 22:37:40.102] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-81, y=67, z=-1107} BlockPos{x=-82, y=66, z=-1108}
