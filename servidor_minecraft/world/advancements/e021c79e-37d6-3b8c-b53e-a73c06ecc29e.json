@@ -203,7 +203,9 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:blaze": "2025-08-20 21:34:54 +0000",
+      "minecraft:skeleton": "2025-08-20 23:40:55 +0000",
       "minecraft:spider": "2025-08-20 22:39:00 +0000",
+      "minecraft:creeper": "2025-08-20 23:40:15 +0000",
       "minecraft:enderman": "2025-08-20 09:05:00 +0000",
       "minecraft:zombie": "2025-08-20 07:34:39 +0000"
     },
@@ -1399,6 +1401,78 @@
     },
     "done": true
   },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-20 23:49:09 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-20 23:49:09 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-20 23:49:09 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-20 23:49:09 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-20 23:49:09 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-20 23:49:09 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-20 23:49:09 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-20 23:49:09 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-20 23:49:09 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-20 23:49:09 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-20 23:49:09 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-20 23:49:09 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/stone_bricks": {
     "criteria": {
       "has_stone": "2025-08-20 21:34:06 +0000"
@@ -1444,6 +1518,12 @@
   "create:recipes/building_blocks/granite_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-08-20 21:14:41 +0000"
+    },
+    "done": true
+  },
+  "mekanism:fluid_tank": {
+    "criteria": {
+      "basic_fluid_tank": "2025-08-20 23:46:31 +0000"
     },
     "done": true
   },
@@ -1525,6 +1605,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/find_grave_dust": {
+    "criteria": {
+      "from_undead": "2025-08-20 23:40:55 +0000"
+    },
+    "done": true
+  },
   "mekanism:chemical_tank": {
     "criteria": {
       "basic_chemical_tank": "2025-08-20 23:10:20 +0000"
@@ -1546,6 +1632,12 @@
   "ae2:recipes/misc/misc/fluixpearl": {
     "criteria": {
       "has_crystals/fluix": "2025-08-20 21:24:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+    "criteria": {
+      "has_stone_bricks": "2025-08-20 23:32:33 +0000"
     },
     "done": true
   },
@@ -1642,6 +1734,12 @@
   "naturescompass:natures_compass": {
     "criteria": {
       "has_recipe": "2025-08-20 21:15:06 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/misc/tiny_tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-08-20 23:40:16 +0000"
     },
     "done": true
   },
@@ -1828,6 +1926,12 @@
   "tconstruct:recipes/combat/tools/armor/travelers_chestplate": {
     "criteria": {
       "has_item": "2025-08-20 21:20:48 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/first_knowledge": {
+    "criteria": {
+      "coded_trigger": "2025-08-20 23:40:55 +0000"
     },
     "done": true
   },
@@ -2095,6 +2199,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stone_bricks": "2025-08-20 23:32:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite_slab_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-08-20 21:14:41 +0000"
@@ -2122,6 +2232,12 @@
   "naturescompass:natures_compass_log": {
     "criteria": {
       "has_log": "2025-08-20 21:15:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-08-20 23:32:33 +0000"
     },
     "done": true
   },
@@ -2305,6 +2421,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-08-20 23:40:16 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/network/cables/dense_smart_orange": {
     "criteria": {
       "has_fluix_smart_dense_cable": "2025-08-20 21:12:48 +0000"
@@ -2467,6 +2589,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/stone_brick_wall": {
+    "criteria": {
+      "has_stone_bricks": "2025-08-20 23:32:33 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_diorite_wall_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2025-08-20 22:26:46 +0000"
@@ -2539,6 +2667,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cracked_stone_bricks": {
+    "criteria": {
+      "has_stone_bricks": "2025-08-20 23:32:33 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/building_blocks/smeltery/seared/seared_bricks_slab_stonecutter": {
     "criteria": {
       "has_item": "2025-08-20 22:41:45 +0000"
@@ -2548,6 +2682,12 @@
   "minecraft:recipes/building_blocks/diorite_slab": {
     "criteria": {
       "has_diorite": "2025-08-20 22:26:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-08-20 23:32:33 +0000"
     },
     "done": true
   },
@@ -2608,6 +2748,12 @@
   "ae2:recipes/misc/network/cells/item_storage_cell_4k_storage": {
     "criteria": {
       "has_cell_component_4k": "2025-08-20 22:02:14 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:world/sky_island": {
+    "criteria": {
+      "found_island": "2025-08-20 23:45:23 +0000"
     },
     "done": true
   },
@@ -2674,6 +2820,12 @@
   "minecraft:recipes/tools/fishing_rod": {
     "criteria": {
       "has_string": "2025-08-20 22:39:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
+    "criteria": {
+      "has_tag": "2025-08-20 23:32:33 +0000"
     },
     "done": true
   },
@@ -2848,6 +3000,12 @@
   "minecraft:recipes/misc/paper": {
     "criteria": {
       "has_reeds": "2025-08-20 23:27:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-08-20 23:32:33 +0000"
     },
     "done": true
   },
@@ -3034,6 +3192,12 @@
   "create:recipes/building_blocks/cut_granite_wall_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-08-20 21:14:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-08-20 23:32:33 +0000"
     },
     "done": true
   },
@@ -3304,6 +3468,12 @@
   "ae2:recipes/misc/network/blocks/io_port": {
     "criteria": {
       "has_drive": "2025-08-20 21:17:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-08-20 23:40:16 +0000"
     },
     "done": true
   },
