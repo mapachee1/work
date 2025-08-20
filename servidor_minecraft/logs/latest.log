@@ -1073,3 +1073,47 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmers
 [20Aug2025 21:26:49.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Melosito_Neo has made the advancement [Limitless Potential]
 [20Aug2025 21:27:39.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Melosito_Neo has made the advancement [Recursive Networking]
 [20Aug2025 21:34:54.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Melosito_Neo has made the advancement [Into Fire]
+[20Aug2025 21:38:46.638] [Server thread/INFO] [mcjty.lib.setup.DefaultModSetup/]: --------------------------------------------------
+Attempting to create dimension:
+    ATTRIBUTE: cities
+    FLUID: minecraft:lava
+    TERRAIN: grid
+    STRUCTURE: default
+    BLOCK: minecraft:waxed_cut_copper
+    FEATURE: cubes
+    BIOME: biomesoplenty:rainforest
+    BIOME: minecraft:basalt_deltas
+    BIOME: minecraft:birch_forest
+    BIOME: minecraft:snowy_taiga
+    BIOME: biomesoplenty:wasteland
+    BIOME: minecraft:snowy_plains
+    BIOME_CONTROLLER: default
+    TIME: normal
+--------------------------------------------------
+[20Aug2025 21:38:46.639] [Server thread/INFO] [mcjty.lib.setup.DefaultModSetup/]: --------------------------------------------------
+Compiled Descriptor:
+    TERRAIN: grid
+    TIME: normal
+    SKY: 
+    LIQUID: minecraft:lava
+    BLOCK: minecraft:stone
+    ATTR: cities
+    BIOME CTRL: default
+        BIOME: minecraft:forest
+        BIOME: biomesoplenty:rainforest
+        BIOME: minecraft:basalt_deltas
+        BIOME: minecraft:birch_forest
+        BIOME: minecraft:snowy_taiga
+        BIOME: biomesoplenty:wasteland
+        BIOME: minecraft:snowy_plains
+    STRUCTURE: minecraft:default
+    FEATURE: cubes
+        BLOCK: minecraft:waxed_cut_copper
+        LIQUID: minecraft:water
+--------------------------------------------------
+[20Aug2025 21:38:52.366] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5688ms or 113 ticks behind
+[20Aug2025 21:42:07.281] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Melosito_Neo moved too quickly! 9.818617365584558,1.4541870787446527,3.1765961223054546
+[20Aug2025 21:42:07.324] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4896ms or 97 ticks behind
+[20Aug2025 21:45:05.218] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Melosito_Neo moved too quickly! 101.16388546099782,-19.5,-90.89610203674147
+[20Aug2025 21:47:02.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Set own game mode to Creative Mode]
+[20Aug2025 21:47:15.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Set own game mode to Survival Mode]
