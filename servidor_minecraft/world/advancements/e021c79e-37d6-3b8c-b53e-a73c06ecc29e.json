@@ -260,6 +260,7 @@
     "criteria": {
       "woodland": "2025-08-20 08:03:30 +0000",
       "scrubland": "2025-08-20 08:03:11 +0000",
+      "old_growth_woodland": "2025-08-20 21:48:05 +0000",
       "spider_nest": "2025-08-20 09:02:31 +0000",
       "rainforest": "2025-08-20 08:03:41 +0000"
     },
@@ -1423,6 +1424,12 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/decorative/quartz_fixture": {
+    "criteria": {
+      "has_charged_certus_quartz_crystal": "2025-08-20 21:58:19 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/granite_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-08-20 21:14:41 +0000"
@@ -1681,6 +1688,12 @@
     },
     "done": true
   },
+  "ae2:main/charged_quartz": {
+    "criteria": {
+      "certus": "2025-08-20 21:58:19 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/tools/fluix_shovel": {
     "criteria": {
       "has_crystals/fluix": "2025-08-20 21:24:24 +0000"
@@ -1819,6 +1832,12 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/network/cells/item_storage_cell_1k_storage": {
+    "criteria": {
+      "has_item_cell_housing": "2025-08-20 21:56:32 +0000"
+    },
+    "done": true
+  },
   "phantasm:recipes/tools/crystalline_hoe": {
     "criteria": {
       "has_stick": "2025-08-20 21:07:57 +0000"
@@ -1846,6 +1865,12 @@
   "naturescompass:natures_compass_sapling": {
     "criteria": {
       "has_recipe": "2025-08-20 21:15:06 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/portable_item_cell_256k": {
+    "criteria": {
+      "has_item_cell_housing": "2025-08-20 21:56:32 +0000"
     },
     "done": true
   },
@@ -1906,6 +1931,12 @@
   "ae2:recipes/misc/network/cables/covered_pink": {
     "criteria": {
       "has_fluix_covered_cable": "2025-08-20 21:03:10 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/portable_item_cell_64k": {
+    "criteria": {
+      "has_item_cell_housing": "2025-08-20 21:56:32 +0000"
     },
     "done": true
   },
@@ -1987,6 +2018,12 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/tools/misctools_charged_staff": {
+    "criteria": {
+      "has_charged_certus_quartz_crystal": "2025-08-20 21:58:19 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_granite_brick_wall_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-08-20 21:14:41 +0000"
@@ -2041,6 +2078,12 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/tools/portable_item_cell_16k": {
+    "criteria": {
+      "has_item_cell_housing": "2025-08-20 21:56:32 +0000"
+    },
+    "done": true
+  },
   "phantasm:recipes/combat/crystalline_sword": {
     "criteria": {
       "has_stick": "2025-08-20 21:07:57 +0000"
@@ -2080,6 +2123,12 @@
   "minecraft:recipes/decorations/stonecutter": {
     "criteria": {
       "has_stone": "2025-08-20 21:34:06 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/decorative/quartz_fixture_from_anchors": {
+    "criteria": {
+      "has_charged_certus_quartz_crystal": "2025-08-20 21:58:19 +0000"
     },
     "done": true
   },
@@ -2257,6 +2306,12 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/tools/portable_item_cell_1k": {
+    "criteria": {
+      "has_item_cell_housing": "2025-08-20 21:56:32 +0000"
+    },
+    "done": true
+  },
   "reliquary:recipes/misc/destruction_catalyst": {
     "criteria": {
       "has_molten_core": "2025-08-20 21:34:57 +0000"
@@ -2266,6 +2321,12 @@
   "minecraft:recipes/building_blocks/polished_granite": {
     "criteria": {
       "has_granite": "2025-08-20 21:14:41 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/portable_item_cell_4k": {
+    "criteria": {
+      "has_item_cell_housing": "2025-08-20 21:56:32 +0000"
     },
     "done": true
   },
