@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "uuid": "b5c6629b-2855-3743-a573-3a0212864369",
+    "name": "TheForgottenNeo",
+    "created": "2025-08-20 08:48:30 +0000",
+    "source": "TheForgottenNeo",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  }
+]
