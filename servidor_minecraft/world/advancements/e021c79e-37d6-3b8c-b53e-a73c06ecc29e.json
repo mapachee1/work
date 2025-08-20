@@ -1454,6 +1454,12 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/network/cells/item_storage_cell_64k": {
+    "criteria": {
+      "has_cell_component_64k": "2025-08-20 21:59:50 +0000"
+    },
+    "done": true
+  },
   "phantasm:recipes/tools/crystalline_shovel": {
     "criteria": {
       "has_stick": "2025-08-20 21:07:57 +0000"
@@ -1742,6 +1748,12 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/network/cells/item_storage_components_cell_16k_part": {
+    "criteria": {
+      "has_cell_component_4k": "2025-08-20 22:02:14 +0000"
+    },
+    "done": true
+  },
   "ae2:main/storage_bus": {
     "criteria": {
       "part": "2025-08-20 21:26:49 +0000"
@@ -2024,6 +2036,12 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/network/cells/fluid_storage_cell_4k_storage": {
+    "criteria": {
+      "has_cell_component_4k": "2025-08-20 22:02:14 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_granite_brick_wall_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-08-20 21:14:41 +0000"
@@ -2057,6 +2075,12 @@
   "create:recipes/building_blocks/polished_cut_granite_stairs_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-08-20 21:14:41 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cells/item_storage_cell_4k_storage": {
+    "criteria": {
+      "has_cell_component_4k": "2025-08-20 22:02:14 +0000"
     },
     "done": true
   },
@@ -2099,6 +2123,12 @@
   "ae2:recipes/misc/tools/fluix_axe": {
     "criteria": {
       "has_crystals/fluix": "2025-08-20 21:24:24 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cells/item_storage_cell_4k": {
+    "criteria": {
+      "has_cell_component_4k": "2025-08-20 22:02:14 +0000"
     },
     "done": true
   },
@@ -2180,6 +2210,12 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/network/cells/fluid_storage_cell_4k": {
+    "criteria": {
+      "has_cell_component_4k": "2025-08-20 22:02:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-08-20 21:34:06 +0000"
@@ -2258,6 +2294,12 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/network/cells/fluid_storage_cell_64k": {
+    "criteria": {
+      "has_cell_component_64k": "2025-08-20 21:59:50 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_granite_wall_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-08-20 21:14:41 +0000"
@@ -2270,6 +2312,12 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/network/cells/item_storage_components_cell_256k_part": {
+    "criteria": {
+      "has_cell_component_64k": "2025-08-20 21:59:50 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_granite_brick_slab_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-08-20 21:14:41 +0000"
@@ -2279,6 +2327,12 @@
   "minecraft:recipes/tools/wooden_pickaxe": {
     "criteria": {
       "has_stick": "2025-08-20 21:07:57 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cells/fluid_storage_cell_64k_storage": {
+    "criteria": {
+      "has_cell_component_64k": "2025-08-20 21:59:50 +0000"
     },
     "done": true
   },
@@ -2303,6 +2357,12 @@
   "sophisticatedbackpacks:recipes/misc/upgrade_base": {
     "criteria": {
       "has_leather": "2025-08-20 21:20:48 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cells/item_storage_cell_64k_storage": {
+    "criteria": {
+      "has_cell_component_64k": "2025-08-20 21:59:50 +0000"
     },
     "done": true
   },
