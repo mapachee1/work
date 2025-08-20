@@ -1436,6 +1436,12 @@
     },
     "done": true
   },
+  "ae2:main/facade": {
+    "criteria": {
+      "facade": "2025-08-20 22:12:54 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/misc/tables/pattern": {
     "criteria": {
       "has_item": "2025-08-20 21:07:57 +0000"
@@ -1460,9 +1466,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_diorite": {
+    "criteria": {
+      "has_diorite": "2025-08-20 22:26:46 +0000"
+    },
+    "done": true
+  },
   "phantasm:recipes/tools/crystalline_shovel": {
     "criteria": {
       "has_stick": "2025-08-20 21:07:57 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_diorite_slab_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-08-20 22:26:46 +0000"
     },
     "done": true
   },
@@ -1517,6 +1535,12 @@
   "ae2:recipes/misc/network/cables/covered_brown": {
     "criteria": {
       "has_fluix_covered_cable": "2025-08-20 21:03:10 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_diorite_brick_slab_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-08-20 22:26:46 +0000"
     },
     "done": true
   },
@@ -1622,6 +1646,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/small_diorite_brick_slab_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-08-20 22:26:46 +0000"
+    },
+    "done": true
+  },
   "reliquary:recipes/misc/salamander_eye": {
     "criteria": {
       "has_molten_core": "2025-08-20 21:34:57 +0000"
@@ -1673,6 +1703,12 @@
   "create:recipes/building_blocks/cut_granite_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-08-20 21:14:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-08-20 22:26:46 +0000"
     },
     "done": true
   },
@@ -1748,6 +1784,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diorite_stairs_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-08-20 22:26:46 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/network/cells/item_storage_components_cell_16k_part": {
     "criteria": {
       "has_cell_component_4k": "2025-08-20 22:02:14 +0000"
@@ -1763,6 +1805,12 @@
   "minecraft:recipes/building_blocks/granite_stairs_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-08-20 21:14:41 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/parts/cable_anchor": {
+    "criteria": {
+      "has_knife": "2025-08-20 22:11:55 +0000"
     },
     "done": true
   },
@@ -1856,6 +1904,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/andesite": {
+    "criteria": {
+      "has_stone": "2025-08-20 22:26:46 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/granite_pillar_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-08-20 21:14:41 +0000"
@@ -1865,6 +1919,18 @@
   "create:recipes/building_blocks/polished_cut_granite_wall_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-08-20 21:14:41 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/diorite_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-08-20 22:26:46 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_diorite_brick_wall_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-08-20 22:26:46 +0000"
     },
     "done": true
   },
@@ -1928,6 +1994,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_diorite_brick_stairs_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-08-20 22:26:46 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/network/cables/dense_smart_purple": {
     "criteria": {
       "has_fluix_smart_dense_cable": "2025-08-20 21:12:48 +0000"
@@ -1958,9 +2030,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_diorite_slab_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-08-20 22:26:46 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/network/cables/covered_light_gray": {
     "criteria": {
       "has_fluix_covered_cable": "2025-08-20 21:03:10 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_diorite_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-08-20 22:26:46 +0000"
     },
     "done": true
   },
@@ -2000,6 +2084,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_diorite_stairs_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-08-20 22:26:46 +0000"
+    },
+    "done": true
+  },
   "phantasm:recipes/tools/crystalline_axe": {
     "criteria": {
       "has_stick": "2025-08-20 21:07:57 +0000"
@@ -2018,9 +2108,33 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/small_diorite_bricks_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-08-20 22:26:46 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/layered_diorite_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-08-20 22:26:46 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_diorite_wall_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-08-20 22:26:46 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/network/blocks/spatial_io_port": {
     "criteria": {
       "has_io_port": "2025-08-20 21:16:42 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_diorite_brick_wall_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-08-20 22:26:46 +0000"
     },
     "done": true
   },
@@ -2048,9 +2162,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diorite_slab": {
+    "criteria": {
+      "has_diorite": "2025-08-20 22:26:46 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/combat/tools/armor/travelers_shield": {
     "criteria": {
       "has_item": "2025-08-20 21:20:48 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_diorite_bricks_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-08-20 22:26:46 +0000"
     },
     "done": true
   },
@@ -2102,6 +2228,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_feather": "2025-08-20 22:15:29 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/tools/portable_item_cell_16k": {
     "criteria": {
       "has_item_cell_housing": "2025-08-20 21:56:32 +0000"
@@ -2147,6 +2279,18 @@
   "create:recipes/building_blocks/small_granite_brick_wall_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-08-20 21:14:41 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/diorite_pillar_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-08-20 22:26:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/diorite_wall": {
+    "criteria": {
+      "has_diorite": "2025-08-20 22:26:46 +0000"
     },
     "done": true
   },
@@ -2222,6 +2366,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/polished_cut_diorite_wall_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-08-20 22:26:46 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/network/cables/dense_smart_cyan": {
     "criteria": {
       "has_fluix_smart_dense_cable": "2025-08-20 21:12:48 +0000"
@@ -2237,6 +2387,12 @@
   "ae2:recipes/misc/network/blocks/controller": {
     "criteria": {
       "has_purified_fluix_crystal": "2025-08-20 21:24:24 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_diorite_brick_stairs_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-08-20 22:26:46 +0000"
     },
     "done": true
   },
@@ -2318,6 +2474,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/diorite_wall_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-08-20 22:26:46 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_granite_brick_slab_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-08-20 21:14:41 +0000"
@@ -2327,6 +2489,12 @@
   "minecraft:recipes/tools/wooden_pickaxe": {
     "criteria": {
       "has_stick": "2025-08-20 21:07:57 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_diorite_stairs_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-08-20 22:26:46 +0000"
     },
     "done": true
   },
@@ -2420,6 +2588,18 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/polished_cut_diorite_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-08-20 22:26:46 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_diorite_slab_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-08-20 22:26:46 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/network/cables/dense_smart_yellow": {
     "criteria": {
       "has_fluix_smart_dense_cable": "2025-08-20 21:12:48 +0000"
@@ -2438,6 +2618,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_diorite_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-08-20 22:26:46 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/shaped/slabs/sky_stone_block": {
     "criteria": {
       "has_sky_stone_block": "2025-08-20 21:20:04 +0000"
@@ -2450,9 +2636,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diorite_slab_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-08-20 22:26:46 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/network/blocks/io_port": {
     "criteria": {
       "has_drive": "2025-08-20 21:17:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_stairs": {
+    "criteria": {
+      "has_diorite": "2025-08-20 22:26:46 +0000"
     },
     "done": true
   },
