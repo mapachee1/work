@@ -77,6 +77,7 @@
       "minecraft:river": "2025-08-20 07:32:44 +0000",
       "minecraft:lukewarm_ocean": "2025-08-20 08:15:55 +0000",
       "minecraft:forest": "2025-08-20 07:23:41 +0000",
+      "minecraft:jungle": "2025-08-20 21:14:25 +0000",
       "minecraft:savanna": "2025-08-20 07:33:59 +0000",
       "minecraft:plains": "2025-08-20 07:32:57 +0000"
     },
@@ -1390,6 +1391,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2025-08-20 21:20:48 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/misc/tank_sky_stone": {
+    "criteria": {
+      "has_sky_stone_block": "2025-08-20 21:20:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2025-08-20 21:07:57 +0000"
@@ -1402,15 +1415,33 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/granite_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-08-20 21:14:41 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/misc/tables/pattern": {
     "criteria": {
       "has_item": "2025-08-20 21:07:57 +0000"
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_granite_brick_slab_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-08-20 21:14:41 +0000"
+    },
+    "done": true
+  },
   "phantasm:recipes/tools/crystalline_shovel": {
     "criteria": {
       "has_stick": "2025-08-20 21:07:57 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/shaped/stairs/sky_stone_block": {
+    "criteria": {
+      "has_sky_stone_block": "2025-08-20 21:20:04 +0000"
     },
     "done": true
   },
@@ -1426,6 +1457,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-08-20 21:14:41 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/network/cables/dense_covered_fluix": {
     "criteria": {
       "has_fluix_covered_cable": "2025-08-20 21:03:10 +0000"
@@ -1438,9 +1475,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2025-08-20 21:20:48 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/network/cables/dense_smart_white": {
     "criteria": {
       "has_fluix_smart_dense_cable": "2025-08-20 21:12:48 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_granite_slab_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-08-20 21:14:41 +0000"
     },
     "done": true
   },
@@ -1450,9 +1499,27 @@
     },
     "done": true
   },
+  "naturescompass:natures_compass": {
+    "criteria": {
+      "has_recipe": "2025-08-20 21:15:06 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/network/cables/covered_red": {
     "criteria": {
       "has_fluix_covered_cable": "2025-08-20 21:03:10 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/combat/tools/armor/travelers_boots": {
+    "criteria": {
+      "has_item": "2025-08-20 21:20:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-08-20 21:14:41 +0000"
     },
     "done": true
   },
@@ -1462,9 +1529,57 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/small_granite_brick_stairs_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-08-20 21:14:41 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/network/cables/dense_smart_blue": {
     "criteria": {
       "has_fluix_smart_dense_cable": "2025-08-20 21:12:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-08-20 21:14:41 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/mahogany_wood": {
+    "criteria": {
+      "has_log": "2025-08-20 21:15:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2025-08-20 21:20:48 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/block_cutter/slabs/sky_stone_slab": {
+    "criteria": {
+      "has_sky_stone_block": "2025-08-20 21:20:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_slab": {
+    "criteria": {
+      "has_granite": "2025-08-20 21:14:41 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/combat/tools/armor/travelers_chestplate": {
+    "criteria": {
+      "has_item": "2025-08-20 21:20:48 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_granite_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-08-20 21:14:41 +0000"
     },
     "done": true
   },
@@ -1480,15 +1595,57 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/building_blocks/mahogany_planks": {
+    "criteria": {
+      "has_logs": "2025-08-20 21:15:06 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_granite_brick_stairs_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-08-20 21:14:41 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/smelting/smooth_sky_stone_block": {
+    "criteria": {
+      "has_sky_stone_block": "2025-08-20 21:20:04 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_granite_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-08-20 21:14:41 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/network/cables/covered_light_blue": {
     "criteria": {
       "has_fluix_covered_cable": "2025-08-20 21:03:10 +0000"
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/backpack": {
+    "criteria": {
+      "has_leather": "2025-08-20 21:20:48 +0000"
+    },
+    "done": true
+  },
   "ae2:main/network1": {
     "criteria": {
       "cable": "2025-08-20 20:59:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_stairs": {
+    "criteria": {
+      "has_granite": "2025-08-20 21:14:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-08-20 21:14:41 +0000"
     },
     "done": true
   },
@@ -1510,6 +1667,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/granite_wall": {
+    "criteria": {
+      "has_granite": "2025-08-20 21:14:41 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/network/cables/glass_fluix": {
     "criteria": {
       "has_quartz_fiber": "2025-08-20 21:03:15 +0000"
@@ -1522,9 +1685,51 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/charcoal": {
+    "criteria": {
+      "has_log": "2025-08-20 21:15:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-08-20 21:14:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2025-08-20 21:20:48 +0000"
+    },
+    "done": true
+  },
+  "naturescompass:natures_compass_log": {
+    "criteria": {
+      "has_log": "2025-08-20 21:15:06 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/combat/tools/armor/travelers_pants": {
+    "criteria": {
+      "has_item": "2025-08-20 21:20:48 +0000"
+    },
+    "done": true
+  },
   "phantasm:recipes/tools/crystalline_hoe": {
     "criteria": {
       "has_stick": "2025-08-20 21:07:57 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/granite_pillar_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-08-20 21:14:41 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_granite_wall_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-08-20 21:14:41 +0000"
     },
     "done": true
   },
@@ -1534,15 +1739,33 @@
     },
     "done": true
   },
+  "naturescompass:natures_compass_sapling": {
+    "criteria": {
+      "has_recipe": "2025-08-20 21:15:06 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/network/cables/covered_green": {
     "criteria": {
       "has_fluix_covered_cable": "2025-08-20 21:03:10 +0000"
     },
     "done": true
   },
+  "ae2:recipes/misc/shaped/walls/sky_stone_block": {
+    "criteria": {
+      "has_sky_stone_block": "2025-08-20 21:20:04 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/network/cables/dense_smart_light_blue": {
     "criteria": {
       "has_fluix_smart_dense_cable": "2025-08-20 21:12:48 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/block_cutter/stairs/sky_stone_stairs": {
+    "criteria": {
+      "has_sky_stone_block": "2025-08-20 21:20:04 +0000"
     },
     "done": true
   },
@@ -1555,6 +1778,12 @@
   "ae2:recipes/misc/network/cables/dense_smart_purple": {
     "criteria": {
       "has_fluix_smart_dense_cable": "2025-08-20 21:12:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2025-08-20 21:20:48 +0000"
     },
     "done": true
   },
@@ -1573,6 +1802,12 @@
   "ae2:recipes/misc/network/cables/covered_light_gray": {
     "criteria": {
       "has_fluix_covered_cable": "2025-08-20 21:03:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-08-20 21:14:41 +0000"
     },
     "done": true
   },
@@ -1600,6 +1835,36 @@
     },
     "done": true
   },
+  "tconstruct:recipes/combat/tools/armor/travelers_goggles": {
+    "criteria": {
+      "has_item": "2025-08-20 21:20:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2025-08-20 21:20:48 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/blocks/spatial_io_port": {
+    "criteria": {
+      "has_io_port": "2025-08-20 21:16:42 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_granite_brick_wall_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-08-20 21:14:41 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/combat/tools/armor/travelers_shield": {
+    "criteria": {
+      "has_item": "2025-08-20 21:20:48 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/network/cables/dense_smart_red": {
     "criteria": {
       "has_fluix_smart_dense_cable": "2025-08-20 21:12:48 +0000"
@@ -1609,6 +1874,24 @@
   "ae2:recipes/misc/network/cables/covered_black": {
     "criteria": {
       "has_fluix_covered_cable": "2025-08-20 21:03:10 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_granite_stairs_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-08-20 21:14:41 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/layered_granite_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-08-20 21:14:41 +0000"
+    },
+    "done": true
+  },
+  "ae2:main/ioport": {
+    "criteria": {
+      "certus": "2025-08-20 21:16:42 +0000"
     },
     "done": true
   },
@@ -1624,9 +1907,27 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/small_granite_brick_wall_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-08-20 21:14:41 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/network/cables/covered_magenta": {
     "criteria": {
       "has_fluix_covered_cable": "2025-08-20 21:03:10 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_granite_slab_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-08-20 21:14:41 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_granite_bricks_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-08-20 21:14:41 +0000"
     },
     "done": true
   },
@@ -1678,9 +1979,45 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_granite_wall_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-08-20 21:14:41 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_granite_brick_slab_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-08-20 21:14:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_pickaxe": {
     "criteria": {
       "has_stick": "2025-08-20 21:07:57 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_granite_stairs_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-08-20 21:14:41 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_granite_bricks_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-08-20 21:14:41 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/upgrade_base": {
+    "criteria": {
+      "has_leather": "2025-08-20 21:20:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite": {
+    "criteria": {
+      "has_granite": "2025-08-20 21:14:41 +0000"
     },
     "done": true
   },
@@ -1699,6 +2036,30 @@
   "ae2:recipes/misc/network/cables/dense_smart_yellow": {
     "criteria": {
       "has_fluix_smart_dense_cable": "2025-08-20 21:12:48 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/block_cutter/walls/sky_stone_wall": {
+    "criteria": {
+      "has_sky_stone_block": "2025-08-20 21:20:04 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/shaped/slabs/sky_stone_block": {
+    "criteria": {
+      "has_sky_stone_block": "2025-08-20 21:20:04 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/blocks/io_port": {
+    "criteria": {
+      "has_drive": "2025-08-20 21:17:08 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/misc/chests_sky_stone": {
+    "criteria": {
+      "has_sky_stone_block": "2025-08-20 21:20:04 +0000"
     },
     "done": true
   },
