@@ -1141,3 +1141,6 @@ Compiled Descriptor:
 [20Aug2025 22:58:40.189] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-85, y=71, z=-1115} BlockPos{x=-85, y=70, z=-1116}
 [20Aug2025 22:58:40.238] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-85, y=71, z=-1115} BlockPos{x=-85, y=70, z=-1116}
 [20Aug2025 23:05:49.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Melosito_Neo has made the advancement [Those Were the Days]
+[20Aug2025 23:11:48.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Set own game mode to Creative Mode]
+[20Aug2025 23:12:20.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Set own game mode to Survival Mode]
+[20Aug2025 23:16:49.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Melosito_Neo has made the advancement [A Seedy Place]
