@@ -9428,3 +9428,24 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmers
 [20Aug2025 21:03:58.836] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [20Aug2025 21:03:58.852] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [20Aug2025 21:06:29.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Set own game mode to Creative Mode]
+[20Aug2025 21:07:31.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Set own game mode to Survival Mode]
+[20Aug2025 21:08:51.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Set own game mode to Creative Mode]
+[20Aug2025 21:08:58.799] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Aug2025 21:08:58.819] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Aug2025 21:09:12.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Set own game mode to Survival Mode]
+[20Aug2025 21:11:39.475] [Server thread/DEBUG] [FTB Chunks/]: Melosito_Neo tried to claim @ minecraft:overworld:-12:-64 but got result ALREADY_CLAIMED
+[20Aug2025 21:11:40.484] [Server thread/DEBUG] [FTB Chunks/]: Melosito_Neo tried to claim @ minecraft:overworld:-12:-63 but got result ALREADY_CLAIMED
+[20Aug2025 21:11:40.869] [Server thread/DEBUG] [FTB Chunks/]: Melosito_Neo tried to claim @ minecraft:overworld:-11:-63 but got result ALREADY_CLAIMED
+[20Aug2025 21:11:42.536] [Server thread/DEBUG] [FTB Chunks/]: force chunk (forge): mod=ftbchunks owner=e021c79e-37d6-3b8c-b53e-a73c06ecc29e, c=(-12,-64), load=true, success=true
+[20Aug2025 21:11:43.087] [Server thread/DEBUG] [FTB Chunks/]: force chunk (forge): mod=ftbchunks owner=e021c79e-37d6-3b8c-b53e-a73c06ecc29e, c=(-12,-63), load=true, success=true
+[20Aug2025 21:11:43.477] [Server thread/DEBUG] [FTB Chunks/]: force chunk (forge): mod=ftbchunks owner=e021c79e-37d6-3b8c-b53e-a73c06ecc29e, c=(-11,-63), load=true, success=true
+[20Aug2025 21:11:55.091] [Server thread/DEBUG] [FTB Chunks/]: Melosito_Neo tried to load @ minecraft:overworld:-6:-69 but got result NOT_CLAIMED
+[20Aug2025 21:11:57.096] [Server thread/DEBUG] [FTB Chunks/]: force chunk (forge): mod=ftbchunks owner=e021c79e-37d6-3b8c-b53e-a73c06ecc29e, c=(-5,-69), load=true, success=true
+[20Aug2025 21:11:57.392] [Server thread/DEBUG] [FTB Chunks/]: force chunk (forge): mod=ftbchunks owner=e021c79e-37d6-3b8c-b53e-a73c06ecc29e, c=(-6,-69), load=true, success=true
+[20Aug2025 21:12:12.069] [Server thread/DEBUG] [FTB Chunks/]: force chunk (forge): mod=ftbchunks owner=e021c79e-37d6-3b8c-b53e-a73c06ecc29e, c=(-6,-70), load=true, success=true
+[20Aug2025 21:12:15.494] [Server thread/DEBUG] [FTB Chunks/]: force chunk (forge): mod=ftbchunks owner=e021c79e-37d6-3b8c-b53e-a73c06ecc29e, c=(-5,-70), load=true, success=true
+[20Aug2025 21:13:58.790] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Aug2025 21:13:58.802] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Aug2025 21:16:34.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Set own game mode to Creative Mode]
+[20Aug2025 21:16:42.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Melosito_Neo has made the advancement [Storage Cell Shuffle]
+[20Aug2025 21:16:48.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Set own game mode to Survival Mode]

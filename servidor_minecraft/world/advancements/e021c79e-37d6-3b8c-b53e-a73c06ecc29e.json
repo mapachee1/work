@@ -1390,6 +1390,42 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/ladder": {
+    "criteria": {
+      "has_stick": "2025-08-20 21:07:57 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/dense_smart_fluix_clean": {
+    "criteria": {
+      "has_smart_dense_cable": "2025-08-20 21:12:48 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/misc/tables/pattern": {
+    "criteria": {
+      "has_item": "2025-08-20 21:07:57 +0000"
+    },
+    "done": true
+  },
+  "phantasm:recipes/tools/crystalline_shovel": {
+    "criteria": {
+      "has_stick": "2025-08-20 21:07:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_axe": {
+    "criteria": {
+      "has_stick": "2025-08-20 21:07:57 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/dense_smart_light_gray": {
+    "criteria": {
+      "has_fluix_smart_dense_cable": "2025-08-20 21:12:48 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/network/cables/dense_covered_fluix": {
     "criteria": {
       "has_fluix_covered_cable": "2025-08-20 21:03:10 +0000"
@@ -1402,6 +1438,12 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/network/cables/dense_smart_white": {
+    "criteria": {
+      "has_fluix_smart_dense_cable": "2025-08-20 21:12:48 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/network/cables/covered_fluix_clean": {
     "criteria": {
       "has_covered_cable": "2025-08-20 21:03:10 +0000"
@@ -1411,6 +1453,30 @@
   "ae2:recipes/misc/network/cables/covered_red": {
     "criteria": {
       "has_fluix_covered_cable": "2025-08-20 21:03:10 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/dense_smart_lime": {
+    "criteria": {
+      "has_fluix_smart_dense_cable": "2025-08-20 21:12:48 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/dense_smart_blue": {
+    "criteria": {
+      "has_fluix_smart_dense_cable": "2025-08-20 21:12:48 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/blocks/quantum_ring": {
+    "criteria": {
+      "has_fluix_smart_dense_cable": "2025-08-20 21:12:48 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/dense_smart_brown": {
+    "criteria": {
+      "has_fluix_smart_dense_cable": "2025-08-20 21:12:48 +0000"
     },
     "done": true
   },
@@ -1432,6 +1498,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/campfire": {
+    "criteria": {
+      "has_stick": "2025-08-20 21:07:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_hoe": {
+    "criteria": {
+      "has_stick": "2025-08-20 21:07:57 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/network/cables/glass_fluix": {
     "criteria": {
       "has_quartz_fiber": "2025-08-20 21:03:15 +0000"
@@ -1444,15 +1522,51 @@
     },
     "done": true
   },
+  "phantasm:recipes/tools/crystalline_hoe": {
+    "criteria": {
+      "has_stick": "2025-08-20 21:07:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_shovel": {
+    "criteria": {
+      "has_stick": "2025-08-20 21:07:57 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/network/cables/covered_green": {
     "criteria": {
       "has_fluix_covered_cable": "2025-08-20 21:03:10 +0000"
     },
     "done": true
   },
+  "ae2:recipes/misc/network/cables/dense_smart_light_blue": {
+    "criteria": {
+      "has_fluix_smart_dense_cable": "2025-08-20 21:12:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/wooden_sword": {
+    "criteria": {
+      "has_stick": "2025-08-20 21:07:57 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/dense_smart_purple": {
+    "criteria": {
+      "has_fluix_smart_dense_cable": "2025-08-20 21:12:48 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/network/cables/covered_pink": {
     "criteria": {
       "has_fluix_covered_cable": "2025-08-20 21:03:10 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/dense_smart_orange": {
+    "criteria": {
+      "has_fluix_smart_dense_cable": "2025-08-20 21:12:48 +0000"
     },
     "done": true
   },
@@ -1468,9 +1582,45 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/network/cables/dense_smart_gray": {
+    "criteria": {
+      "has_fluix_smart_dense_cable": "2025-08-20 21:12:48 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/blocks/crank": {
+    "criteria": {
+      "has_stick": "2025-08-20 21:07:57 +0000"
+    },
+    "done": true
+  },
+  "phantasm:recipes/tools/crystalline_axe": {
+    "criteria": {
+      "has_stick": "2025-08-20 21:07:57 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/dense_smart_red": {
+    "criteria": {
+      "has_fluix_smart_dense_cable": "2025-08-20 21:12:48 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/network/cables/covered_black": {
     "criteria": {
       "has_fluix_covered_cable": "2025-08-20 21:03:10 +0000"
+    },
+    "done": true
+  },
+  "phantasm:recipes/combat/crystalline_sword": {
+    "criteria": {
+      "has_stick": "2025-08-20 21:07:57 +0000"
+    },
+    "done": true
+  },
+  "phantasm:recipes/tools/crystalline_pickaxe": {
+    "criteria": {
+      "has_stick": "2025-08-20 21:07:57 +0000"
     },
     "done": true
   },
@@ -1480,9 +1630,21 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/network/cables/dense_smart_pink": {
+    "criteria": {
+      "has_fluix_smart_dense_cable": "2025-08-20 21:12:48 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/network/cables/covered_gray": {
     "criteria": {
       "has_fluix_covered_cable": "2025-08-20 21:03:10 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/dense_smart_cyan": {
+    "criteria": {
+      "has_fluix_smart_dense_cable": "2025-08-20 21:12:48 +0000"
     },
     "done": true
   },
@@ -1498,15 +1660,45 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/network/cables/dense_smart_black": {
+    "criteria": {
+      "has_fluix_smart_dense_cable": "2025-08-20 21:12:48 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/network/cables/covered_blue": {
     "criteria": {
       "has_fluix_covered_cable": "2025-08-20 21:03:10 +0000"
     },
     "done": true
   },
+  "ae2:recipes/misc/network/cables/dense_smart_green": {
+    "criteria": {
+      "has_fluix_smart_dense_cable": "2025-08-20 21:12:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_pickaxe": {
+    "criteria": {
+      "has_stick": "2025-08-20 21:07:57 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/dense_smart_magenta": {
+    "criteria": {
+      "has_fluix_smart_dense_cable": "2025-08-20 21:12:48 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/network/cables/covered_cyan": {
     "criteria": {
       "has_fluix_covered_cable": "2025-08-20 21:03:10 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/dense_smart_yellow": {
+    "criteria": {
+      "has_fluix_smart_dense_cable": "2025-08-20 21:12:48 +0000"
     },
     "done": true
   },
