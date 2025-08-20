@@ -1140,3 +1140,4 @@ Compiled Descriptor:
 [20Aug2025 22:53:51.188] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-72, y=73, z=-1119} BlockPos{x=-72, y=74, z=-1119}
 [20Aug2025 22:58:40.189] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-85, y=71, z=-1115} BlockPos{x=-85, y=70, z=-1116}
 [20Aug2025 22:58:40.238] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-85, y=71, z=-1115} BlockPos{x=-85, y=70, z=-1116}
+[20Aug2025 23:05:49.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Melosito_Neo has made the advancement [Those Were the Days]

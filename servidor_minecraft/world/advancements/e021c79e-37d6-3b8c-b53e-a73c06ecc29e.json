@@ -80,6 +80,7 @@
       "minecraft:lukewarm_ocean": "2025-08-20 08:15:55 +0000",
       "minecraft:forest": "2025-08-20 07:23:41 +0000",
       "minecraft:jungle": "2025-08-20 21:14:25 +0000",
+      "minecraft:windswept_gravelly_hills": "2025-08-20 23:05:06 +0000",
       "minecraft:savanna": "2025-08-20 07:33:59 +0000",
       "minecraft:plains": "2025-08-20 07:32:57 +0000"
     },
@@ -263,7 +264,9 @@
       "woodland": "2025-08-20 08:03:30 +0000",
       "scrubland": "2025-08-20 08:03:11 +0000",
       "old_growth_woodland": "2025-08-20 21:48:05 +0000",
+      "crystalline_chasm": "2025-08-20 23:05:21 +0000",
       "spider_nest": "2025-08-20 09:02:31 +0000",
+      "prairie": "2025-08-20 23:07:40 +0000",
       "rainforest": "2025-08-20 08:03:41 +0000"
     },
     "done": false
@@ -1398,7 +1401,7 @@
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "requirement": "2025-08-20 22:59:09 +0000"
+      "requirement": "2025-08-20 23:09:09 +0000"
     },
     "done": false
   },
@@ -1618,6 +1621,12 @@
     },
     "done": true
   },
+  "ironchest:recipes/decorations/upgrades/gold_to_diamond_chest_upgrade": {
+    "criteria": {
+      "has_glass": "2025-08-20 23:06:42 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/network/cables/covered_fluix_clean": {
     "criteria": {
       "has_covered_cable": "2025-08-20 21:03:10 +0000"
@@ -1741,6 +1750,12 @@
   "create:recipes/building_blocks/small_diorite_brick_slab_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2025-08-20 22:26:46 +0000"
+    },
+    "done": true
+  },
+  "ironchest:recipes/decorations/upgrades/diamond_to_obsidian_chest_upgrade": {
+    "criteria": {
+      "has_glass": "2025-08-20 23:06:42 +0000"
     },
     "done": true
   },
@@ -2248,6 +2263,12 @@
     },
     "done": true
   },
+  "ironchest:recipes/decorations/chests/diamond_crystal_chest": {
+    "criteria": {
+      "has_glass": "2025-08-20 23:06:42 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/network/cables/covered_pink": {
     "criteria": {
       "has_fluix_covered_cable": "2025-08-20 21:03:10 +0000"
@@ -2704,6 +2725,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/building_blocks/rose_quartz_block": {
+    "criteria": {
+      "has_rose_quartz_chunk": "2025-08-20 23:05:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/diorite_wall": {
     "criteria": {
       "has_diorite": "2025-08-20 22:26:46 +0000"
@@ -2836,6 +2863,12 @@
     },
     "done": true
   },
+  "ironchest:recipes/decorations/upgrades/diamond_to_crystal_chest_upgrade": {
+    "criteria": {
+      "has_glass": "2025-08-20 23:06:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-08-20 21:34:06 +0000"
@@ -2923,6 +2956,12 @@
   "minecraft:recipes/brewing/fermented_spider_eye": {
     "criteria": {
       "has_spider_eye": "2025-08-20 22:39:00 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/decorations/common/glass/yellow_clear_stained_glass_pane": {
+    "criteria": {
+      "has_block": "2025-08-20 23:06:42 +0000"
     },
     "done": true
   },
@@ -3145,6 +3184,12 @@
   "sophisticatedbackpacks:recipes/misc/restock_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-08-20 22:39:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2025-08-20 23:05:49 +0000"
     },
     "done": true
   },
