@@ -1127,3 +1127,6 @@ Compiled Descriptor:
 [20Aug2025 22:37:40.009] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-81, y=67, z=-1107} BlockPos{x=-82, y=66, z=-1108}
 [20Aug2025 22:37:40.039] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-81, y=67, z=-1107} BlockPos{x=-82, y=66, z=-1108}
 [20Aug2025 22:37:40.102] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-81, y=67, z=-1107} BlockPos{x=-82, y=66, z=-1108}
+[20Aug2025 22:42:16.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Set own game mode to Creative Mode]
+[20Aug2025 22:42:39.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Set own game mode to Survival Mode]
+[20Aug2025 22:47:22.348] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-73, y=61, z=-1100} BlockPos{x=-73, y=62, z=-1100}
