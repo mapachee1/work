@@ -133,3 +133,8 @@
 [21Aug2025 04:59:44.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Set own game mode to Survival Mode]
 [21Aug2025 05:00:43.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Set own game mode to Creative Mode]
 [21Aug2025 05:01:04.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Set own game mode to Survival Mode]
+[21Aug2025 05:11:31.769] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Melosito_Neo moved too quickly! -95.31580128291786,20.5,90.10348967410573
+[21Aug2025 05:12:14.168] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Melosito_Neo moved too quickly! -39.08865673592726,102.5,225.542849382913
+[21Aug2025 05:12:16.262] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Melosito_Neo moved too quickly! 137.0,-121.5,-313.0
+[21Aug2025 05:16:24.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Melosito_Neo was incinerated.
+[21Aug2025 05:16:24.091] [Server thread/INFO] [tombstone/]: The player Melosito_Neo has successfully been saved
