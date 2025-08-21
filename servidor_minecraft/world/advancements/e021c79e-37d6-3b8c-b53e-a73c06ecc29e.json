@@ -4306,12 +4306,6 @@
     },
     "done": true
   },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "requirement": "2025-08-21 07:44:14 +0000"
-    },
-    "done": false
-  },
   "iammusicplayer:recipes/misc/music_manager": {
     "criteria": {
       "has_diamond": "2025-08-21 07:11:30 +0000"
@@ -4617,6 +4611,12 @@
       "laser_tractor_beam": "2025-08-21 05:00:23 +0000"
     },
     "done": true
+  },
+  "mekanism:sps": {
+    "criteria": {
+      "sps_port": "2025-08-21 07:44:33 +0000"
+    },
+    "done": false
   },
   "phantasm:recipes/building_blocks/void_crystal_glass": {
     "criteria": {
