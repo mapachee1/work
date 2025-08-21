@@ -95,3 +95,8 @@
 [21Aug2025 02:35:09.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Melosito_Neo has made the advancement [Eye Spy]
 [21Aug2025 02:35:13.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Melosito_Neo has made the advancement [The End?]
 [21Aug2025 02:35:13.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Melosito_Neo has made the advancement [Dreams Come True]
+[21Aug2025 02:45:49.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Set own game mode to Creative Mode]
+[21Aug2025 02:52:53.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Set own game mode to Survival Mode]
+[21Aug2025 02:56:33.224] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Melosito_Neo moved too quickly! 101.69948265709255,-19.5,-88.50786376399424
+[21Aug2025 02:57:02.414] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Melosito_Neo moved too quickly! 100.04154052610312,-19.5,-92.74653603795798
+[21Aug2025 02:59:13.975] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Melosito_Neo moved too quickly! 100.01446351872545,-19.5,-88.49752916609611
