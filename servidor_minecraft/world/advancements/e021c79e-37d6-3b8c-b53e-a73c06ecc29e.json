@@ -4305,73 +4305,73 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-08-21 06:04:14 +0000"
+      "log_spam_fixer": "2025-08-21 06:24:14 +0000"
     },
     "done": false
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2025-08-21 06:04:14 +0000"
+      "log_spam_fixer": "2025-08-21 06:24:14 +0000"
     },
     "done": false
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-08-21 06:04:14 +0000"
+      "log_spam_fixer": "2025-08-21 06:24:14 +0000"
     },
     "done": false
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-08-21 06:04:14 +0000"
+      "log_spam_fixer": "2025-08-21 06:24:14 +0000"
     },
     "done": false
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-08-21 06:04:14 +0000"
+      "log_spam_fixer": "2025-08-21 06:24:14 +0000"
     },
     "done": false
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-08-21 06:04:14 +0000"
+      "log_spam_fixer": "2025-08-21 06:24:14 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-08-21 06:04:14 +0000"
+      "log_spam_fixer": "2025-08-21 06:24:14 +0000"
     },
     "done": false
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-08-21 06:04:14 +0000"
+      "log_spam_fixer": "2025-08-21 06:24:14 +0000"
     },
     "done": false
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-08-21 06:04:14 +0000"
+      "log_spam_fixer": "2025-08-21 06:24:14 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-08-21 06:04:14 +0000"
+      "log_spam_fixer": "2025-08-21 06:24:14 +0000"
     },
     "done": false
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-08-21 06:04:14 +0000"
+      "log_spam_fixer": "2025-08-21 06:24:14 +0000"
     },
     "done": false
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-08-21 06:04:14 +0000"
+      "log_spam_fixer": "2025-08-21 06:24:14 +0000"
     },
     "done": false
   },
@@ -4402,6 +4402,12 @@
   "tombstone:adventure/first_grave": {
     "criteria": {
       "coded_trigger": "2025-08-21 04:48:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-08-21 06:24:14 +0000"
     },
     "done": true
   },
@@ -4438,6 +4444,12 @@
   "mekanism:auto_collection": {
     "criteria": {
       "laser_tractor_beam": "2025-08-21 05:00:23 +0000"
+    },
+    "done": true
+  },
+  "mekanism:infusing_efficiency": {
+    "criteria": {
+      "enriched_material": "2025-08-21 06:17:35 +0000"
     },
     "done": true
   },
