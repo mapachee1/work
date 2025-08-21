@@ -10766,3 +10766,19 @@ Compiled Descriptor:
 [21Aug2025 04:39:14.581] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [21Aug2025 04:44:14.578] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [21Aug2025 04:44:14.589] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Aug2025 04:46:00.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Melosito_Neo has made the advancement [Ashes 'n Bones]
+[21Aug2025 04:46:35.010] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Melosito_Neo moved too quickly! -97.42758648621485,20.5,90.73366610073276
+[21Aug2025 04:48:56.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Melosito_Neo has reached the goal [Strong or Careful]
+[21Aug2025 04:48:56.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Melosito_Neo was incinerated.
+[21Aug2025 04:48:57.004] [Server thread/DEBUG] [tombstone/]: A new grave of the player Melosito_Neo was created at position [x:-167, y:84, z:-1015, dim:minecraft:overworld]
+[21Aug2025 04:48:57.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Melosito_Neo has made the advancement [Your First Grave]
+[21Aug2025 04:48:57.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Melosito_Neo has made the advancement [Mmmmmm, Crispy!]
+[21Aug2025 04:48:57.008] [Server thread/INFO] [tombstone/]: The player Melosito_Neo has successfully been saved
+[21Aug2025 04:49:14.576] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Aug2025 04:49:14.586] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Aug2025 04:49:16.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Melosito_Neo has reached the goal [Chain Death]
+[21Aug2025 04:49:16.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Melosito_Neo was incinerated.
+[21Aug2025 04:49:16.240] [Server thread/DEBUG] [tombstone/]: A new grave of the player Melosito_Neo was created at position [x:-166, y:84, z:-1015, dim:minecraft:overworld]
+[21Aug2025 04:49:16.241] [Server thread/INFO] [tombstone/]: The player Melosito_Neo has successfully been saved
+[21Aug2025 04:54:14.574] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Aug2025 04:54:14.585] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
