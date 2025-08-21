@@ -10800,3 +10800,10 @@ Compiled Descriptor:
 [21Aug2025 05:16:24.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Melosito_Neo was incinerated.
 [21Aug2025 05:16:24.089] [Server thread/DEBUG] [tombstone/]: A new grave of the player Melosito_Neo was created at position [x:-168, y:84, z:-1015, dim:minecraft:overworld]
 [21Aug2025 05:16:24.091] [Server thread/INFO] [tombstone/]: The player Melosito_Neo has successfully been saved
+[21Aug2025 05:16:55.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Set own game mode to Creative Mode]
+[21Aug2025 05:16:58.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Set own game mode to Survival Mode]
+[21Aug2025 05:17:47.023] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Melosito_Neo moved too quickly! 96.28104935765586,-19.5,-92.03496034032048
+[21Aug2025 05:19:14.575] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Aug2025 05:19:14.586] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Aug2025 05:24:14.578] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Aug2025 05:24:14.589] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
