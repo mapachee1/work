@@ -4219,6 +4219,12 @@
     },
     "done": true
   },
+  "mekanism:polonium": {
+    "criteria": {
+      "pellet_polonium": "2025-08-21 03:07:08 +0000"
+    },
+    "done": true
+  },
   "mekanism:energy_transport": {
     "criteria": {
       "basic_universal_cable": "2025-08-21 02:35:46 +0000"
