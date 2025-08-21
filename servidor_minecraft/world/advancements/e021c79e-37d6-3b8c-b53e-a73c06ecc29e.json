@@ -4219,21 +4219,15 @@
     },
     "done": true
   },
-  "mekanism:polonium": {
+  "sophisticatedbackpacks:recipes/misc/iron_backpack_from_copper": {
     "criteria": {
-      "pellet_polonium": "2025-08-21 03:07:08 +0000"
+      "has_copper_backpack": "2025-08-21 02:34:59 +0000"
     },
     "done": true
   },
-  "mekanism:energy_transport": {
+  "minecraft:recipes/misc/bone_meal": {
     "criteria": {
-      "basic_universal_cable": "2025-08-21 02:35:46 +0000"
-    },
-    "done": true
-  },
-  "mekanism:pump": {
-    "criteria": {
-      "electric_pump": "2025-08-21 02:51:44 +0000"
+      "has_bone": "2025-08-21 02:35:00 +0000"
     },
     "done": true
   },
@@ -4243,19 +4237,19 @@
     },
     "done": true
   },
-  "mekanism:fluid_transport": {
-    "criteria": {
-      "basic_mechanical_pipe": "2025-08-21 02:59:55 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/iron_backpack_from_copper": {
-    "criteria": {
-      "has_copper_backpack": "2025-08-21 02:34:59 +0000"
-    },
-    "done": true
-  },
   "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2025-08-21 02:35:13 +0000"
+    },
+    "done": true
+  },
+  "phantasm:find_dreaming_den": {
+    "criteria": {
+      "is_dreaming_den": "2025-08-21 02:35:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/root": {
     "criteria": {
       "entered_end": "2025-08-21 02:35:13 +0000"
     },
@@ -4267,21 +4261,9 @@
     },
     "done": false
   },
-  "phantasm:find_dreaming_den": {
+  "mekanism:energy_transport": {
     "criteria": {
-      "is_dreaming_den": "2025-08-21 02:35:13 +0000"
-    },
-    "done": true
-  },
-  "mekanismgenerators:solar_generator": {
-    "criteria": {
-      "solar_generator": "2025-08-21 03:03:06 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/bone_meal": {
-    "criteria": {
-      "has_bone": "2025-08-21 02:35:00 +0000"
+      "basic_universal_cable": "2025-08-21 02:35:46 +0000"
     },
     "done": true
   },
@@ -4297,9 +4279,27 @@
     },
     "done": true
   },
-  "minecraft:end/root": {
+  "mekanism:pump": {
     "criteria": {
-      "entered_end": "2025-08-21 02:35:13 +0000"
+      "electric_pump": "2025-08-21 02:51:44 +0000"
+    },
+    "done": true
+  },
+  "mekanism:fluid_transport": {
+    "criteria": {
+      "basic_mechanical_pipe": "2025-08-21 02:59:55 +0000"
+    },
+    "done": true
+  },
+  "mekanismgenerators:solar_generator": {
+    "criteria": {
+      "solar_generator": "2025-08-21 03:03:06 +0000"
+    },
+    "done": true
+  },
+  "mekanism:polonium": {
+    "criteria": {
+      "pellet_polonium": "2025-08-21 03:07:08 +0000"
     },
     "done": true
   },
