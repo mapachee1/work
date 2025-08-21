@@ -157,3 +157,6 @@
 [21Aug2025 07:11:30.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Melosito_Neo has made the advancement [Diamonds!]
 [21Aug2025 07:13:51.873] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Melosito_Neo moved too quickly! -98.37578495379428,20.5,90.01261957617635
 [21Aug2025 07:20:54.209] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Melosito_Neo moved too quickly! 1.3615211856168514,1.243099997043572,10.812250255957906
+[21Aug2025 07:39:50.114] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Melosito_Neo moved too quickly! -97.14998222723796,20.5,89.95915916902345
+[21Aug2025 07:45:26.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Set own game mode to Creative Mode]
+[21Aug2025 07:47:48.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Set own game mode to Survival Mode]
