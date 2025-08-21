@@ -78,6 +78,7 @@
       "minecraft:sparse_jungle": "2025-08-20 08:55:06 +0000",
       "minecraft:river": "2025-08-20 07:32:44 +0000",
       "minecraft:lukewarm_ocean": "2025-08-20 08:15:55 +0000",
+      "minecraft:dripstone_caves": "2025-08-21 00:29:30 +0000",
       "minecraft:forest": "2025-08-20 07:23:41 +0000",
       "minecraft:jungle": "2025-08-20 21:14:25 +0000",
       "minecraft:windswept_gravelly_hills": "2025-08-20 23:05:06 +0000",
@@ -1404,73 +1405,73 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-08-21 00:29:12 +0000"
+      "log_spam_fixer": "2025-08-21 00:58:12 +0000"
     },
     "done": false
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2025-08-21 00:29:12 +0000"
+      "log_spam_fixer": "2025-08-21 00:58:12 +0000"
     },
     "done": false
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-08-21 00:29:12 +0000"
+      "log_spam_fixer": "2025-08-21 00:58:12 +0000"
     },
     "done": false
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-08-21 00:29:12 +0000"
+      "log_spam_fixer": "2025-08-21 00:58:12 +0000"
     },
     "done": false
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-08-21 00:29:12 +0000"
+      "log_spam_fixer": "2025-08-21 00:58:12 +0000"
     },
     "done": false
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-08-21 00:29:12 +0000"
+      "log_spam_fixer": "2025-08-21 00:58:12 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-08-21 00:29:12 +0000"
+      "log_spam_fixer": "2025-08-21 00:58:12 +0000"
     },
     "done": false
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-08-21 00:29:12 +0000"
+      "log_spam_fixer": "2025-08-21 00:58:12 +0000"
     },
     "done": false
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-08-21 00:29:12 +0000"
+      "log_spam_fixer": "2025-08-21 00:58:12 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-08-21 00:29:12 +0000"
+      "log_spam_fixer": "2025-08-21 00:58:12 +0000"
     },
     "done": false
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-08-21 00:29:12 +0000"
+      "log_spam_fixer": "2025-08-21 00:58:12 +0000"
     },
     "done": false
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-08-21 00:29:12 +0000"
+      "log_spam_fixer": "2025-08-21 00:58:12 +0000"
     },
     "done": false
   },
@@ -1510,6 +1511,12 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/network/cables/glass_blue": {
+    "criteria": {
+      "has_fluix_glass_cable": "2025-08-21 00:46:41 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/decorative/quartz_fixture": {
     "criteria": {
       "has_charged_certus_quartz_crystal": "2025-08-20 21:58:19 +0000"
@@ -1543,6 +1550,12 @@
   "sophisticatedbackpacks:recipes/misc/deposit_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-08-20 22:39:10 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/glass_lime": {
+    "criteria": {
+      "has_fluix_glass_cable": "2025-08-21 00:46:41 +0000"
     },
     "done": true
   },
@@ -1612,6 +1625,12 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/network/cables/glass_brown": {
+    "criteria": {
+      "has_fluix_glass_cable": "2025-08-21 00:46:41 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_diorite_slab_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2025-08-20 22:26:46 +0000"
@@ -1621,6 +1640,12 @@
   "tombstone:adventure/find_grave_dust": {
     "criteria": {
       "from_undead": "2025-08-20 23:40:55 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/blocks/pattern_providers_interface_part": {
+    "criteria": {
+      "has_pattern_provider": "2025-08-21 00:46:43 +0000"
     },
     "done": true
   },
@@ -1735,6 +1760,12 @@
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2025-08-20 21:20:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_candle": {
+    "criteria": {
+      "has_yellow_dye": "2025-08-21 00:43:52 +0000"
     },
     "done": true
   },
@@ -1867,6 +1898,12 @@
   "sophisticatedbackpacks:recipes/misc/feeding_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-08-20 22:39:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_yellow_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-08-21 00:43:52 +0000"
     },
     "done": true
   },
@@ -2065,6 +2102,12 @@
   "biomesoplenty:recipes/building_blocks/mahogany_planks": {
     "criteria": {
       "has_logs": "2025-08-20 21:15:06 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/blocks/crystal_processing_growth_accelerator": {
+    "criteria": {
+      "has_glass_cable": "2025-08-21 00:46:41 +0000"
     },
     "done": true
   },
@@ -2284,6 +2327,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/orange_dye_from_red_yellow": {
+    "criteria": {
+      "has_yellow_dye": "2025-08-21 00:43:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/magenta_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-08-20 22:30:17 +0000"
@@ -2392,6 +2441,18 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/network/cables/glass_yellow": {
+    "criteria": {
+      "has_dyes/black": "2025-08-21 00:43:52 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/blocks/interfaces_interface_alt": {
+    "criteria": {
+      "has_cable_interface": "2025-08-21 00:58:33 +0000"
+    },
+    "done": true
+  },
   "phantasm:recipes/tools/crystalline_hoe": {
     "criteria": {
       "has_stick": "2025-08-20 21:07:57 +0000"
@@ -2410,6 +2471,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dye_yellow_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-08-21 00:43:52 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/granite_pillar_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-08-20 21:14:41 +0000"
@@ -2422,6 +2489,12 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/network/parts/terminals_pattern_access": {
+    "criteria": {
+      "has_pattern_provider": "2025-08-21 00:46:43 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_granite_wall_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-08-20 21:14:41 +0000"
@@ -2431,6 +2504,18 @@
   "create:recipes/building_blocks/diorite_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2025-08-20 22:26:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_yellow_dye": "2025-08-21 00:43:52 +0000"
+    },
+    "done": true
+  },
+  "ae2:main/glass_cable": {
+    "criteria": {
+      "certus": "2025-08-21 00:46:41 +0000"
     },
     "done": true
   },
@@ -2497,6 +2582,12 @@
   "ae2:recipes/misc/block_cutter/stairs/sky_stone_stairs": {
     "criteria": {
       "has_sky_stone_block": "2025-08-20 21:20:04 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/glass_cyan": {
+    "criteria": {
+      "has_fluix_glass_cable": "2025-08-21 00:46:41 +0000"
     },
     "done": true
   },
@@ -2578,6 +2669,12 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/network/cables/glass_magenta": {
+    "criteria": {
+      "has_fluix_glass_cable": "2025-08-21 00:46:41 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/network/cables/covered_pink": {
     "criteria": {
       "has_fluix_covered_cable": "2025-08-20 21:03:10 +0000"
@@ -2629,6 +2726,12 @@
   "tconstruct:recipes/building_blocks/smeltery/seared/seared_bricks_stonecutting": {
     "criteria": {
       "has_bricks": "2025-08-20 22:41:45 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/parts/toggle_bus": {
+    "criteria": {
+      "has_glass_cable": "2025-08-21 00:46:41 +0000"
     },
     "done": true
   },
@@ -2758,6 +2861,12 @@
     },
     "done": true
   },
+  "ae2:main/charger": {
+    "criteria": {
+      "certus": "2025-08-21 00:46:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_leggings": {
     "criteria": {
       "has_leather": "2025-08-20 21:20:48 +0000"
@@ -2767,6 +2876,12 @@
   "minecraft:recipes/building_blocks/pink_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-08-20 22:30:17 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/glass_green": {
+    "criteria": {
+      "has_fluix_glass_cable": "2025-08-21 00:46:41 +0000"
     },
     "done": true
   },
@@ -2815,6 +2930,18 @@
   "ae2:recipes/misc/network/blocks/spatial_io_port": {
     "criteria": {
       "has_io_port": "2025-08-20 21:16:42 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/glass_light_blue": {
+    "criteria": {
+      "has_fluix_glass_cable": "2025-08-21 00:46:41 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/glass_black": {
+    "criteria": {
+      "has_fluix_glass_cable": "2025-08-21 00:46:41 +0000"
     },
     "done": true
   },
@@ -2947,6 +3074,12 @@
   "biomesoplenty:recipes/decorations/brimstone_brick_wall_from_brimstone_stonecutting": {
     "criteria": {
       "has_brimstone": "2025-08-21 00:24:05 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/glass_pink": {
+    "criteria": {
+      "has_fluix_glass_cable": "2025-08-21 00:46:41 +0000"
     },
     "done": true
   },
@@ -3103,6 +3236,12 @@
   "minecraft:recipes/building_blocks/white_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-08-20 22:30:17 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/glass_light_gray": {
+    "criteria": {
+      "has_fluix_glass_cable": "2025-08-21 00:46:41 +0000"
     },
     "done": true
   },
@@ -3382,6 +3521,12 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/network/cables/glass_purple": {
+    "criteria": {
+      "has_fluix_glass_cable": "2025-08-21 00:46:41 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/network/cables/covered_lime": {
     "criteria": {
       "has_fluix_covered_cable": "2025-08-20 21:03:10 +0000"
@@ -3430,9 +3575,21 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/network/cables/glass_orange": {
+    "criteria": {
+      "has_fluix_glass_cable": "2025-08-21 00:46:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blackstone_slab_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-08-21 00:18:56 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/covered_fluix": {
+    "criteria": {
+      "has_glass_cable": "2025-08-21 00:46:41 +0000"
     },
     "done": true
   },
@@ -3520,6 +3677,12 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/network/cables/glass_gray": {
+    "criteria": {
+      "has_fluix_glass_cable": "2025-08-21 00:46:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/diorite_wall_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-08-20 22:26:46 +0000"
@@ -3544,6 +3707,12 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/network/cables/glass_fluix_clean": {
+    "criteria": {
+      "has_glass_cable": "2025-08-21 00:46:41 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_diorite_stairs_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2025-08-20 22:26:46 +0000"
@@ -3559,6 +3728,12 @@
   "ae2:recipes/misc/network/cells/fluid_storage_cell_64k_storage": {
     "criteria": {
       "has_cell_component_64k": "2025-08-20 21:59:50 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/glass_red": {
+    "criteria": {
+      "has_fluix_glass_cable": "2025-08-21 00:46:41 +0000"
     },
     "done": true
   },
@@ -3670,6 +3845,12 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/network/cables/glass_white": {
+    "criteria": {
+      "has_fluix_glass_cable": "2025-08-21 00:46:41 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_diorite_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2025-08-20 22:26:46 +0000"
@@ -3739,6 +3920,12 @@
   "minecraft:recipes/decorations/blackstone_wall_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-08-21 00:18:56 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/smart_yellow": {
+    "criteria": {
+      "has_dyes/black": "2025-08-21 00:43:52 +0000"
     },
     "done": true
   },
@@ -3829,6 +4016,12 @@
   "ae2:recipes/misc/network/blocks/io_port": {
     "criteria": {
       "has_drive": "2025-08-20 21:17:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_yellow_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-08-21 00:43:52 +0000"
     },
     "done": true
   },

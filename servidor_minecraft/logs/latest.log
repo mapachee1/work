@@ -51,3 +51,13 @@
 [21Aug2025 00:25:31.772] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-122, y=15, z=-83} BlockPos{x=-121, y=14, z=-83}
 [21Aug2025 00:28:41.949] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-102, y=63, z=-1047} BlockPos{x=-64, y=71, z=-1119}
 [21Aug2025 00:28:41.995] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-64, y=70, z=-1119} BlockPos{x=-64, y=71, z=-1119}
+[21Aug2025 00:32:37.921] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-82, y=66, z=-1111} BlockPos{x=-81, y=65, z=-1111}
+[21Aug2025 00:32:37.975] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-82, y=66, z=-1111} BlockPos{x=-81, y=65, z=-1111}
+[21Aug2025 00:46:41.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Melosito_Neo has made the advancement [Fluix Energy Connection]
+[21Aug2025 00:46:43.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Melosito_Neo has made the advancement [It's Chargin' Time !]
+[21Aug2025 00:58:51.038] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Melosito_Neo lost connection: Disconnected
+[21Aug2025 00:58:51.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Melosito_Neo left the game
+[21Aug2025 01:00:10.700] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Melosito_Neo[/127.159.187.102:41345] logged in with entity id 107275 at (-78.154082975214, 68.0, -1102.987500011921)
+[21Aug2025 01:00:10.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Melosito_Neo joined the game
+[21Aug2025 01:00:10.788] [Server thread/INFO] [Jade/]: Syncing config to Melosito_Neo (e021c79e-37d6-3b8c-b53e-a73c06ecc29e)
+[21Aug2025 01:00:10.789] [Server thread/INFO] [mcjty.lib.setup.DefaultModSetup/]: Client logged in: sending dimlet packages
