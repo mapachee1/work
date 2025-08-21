@@ -129,3 +129,7 @@
 [21Aug2025 04:49:16.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Melosito_Neo has reached the goal [Chain Death]
 [21Aug2025 04:49:16.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Melosito_Neo was incinerated.
 [21Aug2025 04:49:16.241] [Server thread/INFO] [tombstone/]: The player Melosito_Neo has successfully been saved
+[21Aug2025 04:59:39.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Set own game mode to Creative Mode]
+[21Aug2025 04:59:44.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Set own game mode to Survival Mode]
+[21Aug2025 05:00:43.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Set own game mode to Creative Mode]
+[21Aug2025 05:01:04.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Set own game mode to Survival Mode]
