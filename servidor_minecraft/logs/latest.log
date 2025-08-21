@@ -108,3 +108,4 @@
 [21Aug2025 03:14:21.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Set own game mode to Creative Mode]
 [21Aug2025 03:14:50.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Set own game mode to Survival Mode]
 [21Aug2025 03:31:20.424] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Melosito_Neo moved too quickly! 100.97690332103906,-19.5,-86.66338384006121
+[21Aug2025 03:39:41.876] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Melosito_Neo moved too quickly! -98.49120292600522,20.5,91.27555863352995
