@@ -117,3 +117,5 @@
 [21Aug2025 03:50:50.796] [Server thread/INFO] [mcjty.lib.setup.DefaultModSetup/]: Client logged in: sending dimlet packages
 [21Aug2025 04:14:05.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Set own game mode to Creative Mode]
 [21Aug2025 04:14:21.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Set own game mode to Survival Mode]
+[21Aug2025 04:30:32.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Set own game mode to Creative Mode]
+[21Aug2025 04:30:36.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Set own game mode to Survival Mode]
