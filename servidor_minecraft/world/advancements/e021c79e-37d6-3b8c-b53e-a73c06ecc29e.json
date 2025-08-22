@@ -5899,9 +5899,27 @@
     },
     "done": true
   },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "requirement": "2025-08-22 21:52:39 +0000"
+    },
+    "done": false
+  },
+  "ae2:recipes/misc/tools/paintballs_purple": {
+    "criteria": {
+      "has_matter_ball": "2025-08-22 21:49:05 +0000"
+    },
+    "done": true
+  },
   "evilcraft:root": {
     "criteria": {
       "criteria_0": "2025-08-22 21:18:39 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/paintballs_orange": {
+    "criteria": {
+      "has_matter_ball": "2025-08-22 21:49:05 +0000"
     },
     "done": true
   },
@@ -5914,6 +5932,24 @@
   "ae2wtlib:recipes/wireless_universal_terminal/upgrade_pattern_access": {
     "criteria": {
       "has_wit": "2025-08-22 21:07:48 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/paintballs_red": {
+    "criteria": {
+      "has_matter_ball": "2025-08-22 21:49:05 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/paintballs_light_blue": {
+    "criteria": {
+      "has_matter_ball": "2025-08-22 21:49:05 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/paintballs_lime": {
+    "criteria": {
+      "has_matter_ball": "2025-08-22 21:49:05 +0000"
     },
     "done": true
   },
@@ -5937,6 +5973,12 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/tools/paintballs_brown": {
+    "criteria": {
+      "has_matter_ball": "2025-08-22 21:49:05 +0000"
+    },
+    "done": true
+  },
   "ae2wtlib:recipes/wireless_universal_terminal/upgrade_crafting": {
     "criteria": {
       "has_wct": "2025-08-22 21:07:48 +0000"
@@ -5956,6 +5998,24 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/tools/paintballs_blue": {
+    "criteria": {
+      "has_matter_ball": "2025-08-22 21:49:05 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/paintballs_magenta": {
+    "criteria": {
+      "has_matter_ball": "2025-08-22 21:49:05 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/paintballs_gray": {
+    "criteria": {
+      "has_matter_ball": "2025-08-22 21:49:05 +0000"
+    },
+    "done": true
+  },
   "ae2wtlib:recipes/quantum_bridge_card": {
     "criteria": {
       "has_wit": "2025-08-22 21:07:48 +0000",
@@ -5970,9 +6030,51 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/tools/paintballs_cyan": {
+    "criteria": {
+      "has_matter_ball": "2025-08-22 21:49:05 +0000"
+    },
+    "done": true
+  },
   "ae2wtlib:recipes/wireless_pattern_encoding_terminal": {
     "criteria": {
       "has_wt": "2025-08-22 21:07:48 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/paintballs_yellow": {
+    "criteria": {
+      "has_matter_ball": "2025-08-22 21:49:05 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/paintballs_light_gray": {
+    "criteria": {
+      "has_matter_ball": "2025-08-22 21:49:05 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/paintballs_black": {
+    "criteria": {
+      "has_matter_ball": "2025-08-22 21:49:05 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/paintballs_pink": {
+    "criteria": {
+      "has_matter_ball": "2025-08-22 21:49:05 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/paintballs_white": {
+    "criteria": {
+      "has_matter_ball": "2025-08-22 21:49:05 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/paintballs_green": {
+    "criteria": {
+      "has_matter_ball": "2025-08-22 21:49:05 +0000"
     },
     "done": true
   },
