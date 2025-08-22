@@ -5964,6 +5964,12 @@
     },
     "done": true
   },
+  "ae2:main/qnb": {
+    "criteria": {
+      "certus": "2025-08-22 21:39:57 +0000"
+    },
+    "done": true
+  },
   "ae2wtlib:recipes/wireless_pattern_encoding_terminal": {
     "criteria": {
       "has_wt": "2025-08-22 21:07:48 +0000"
