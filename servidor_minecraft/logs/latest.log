@@ -1128,3 +1128,5 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmers
 [22Aug2025 03:33:22.403] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from Melosito_Neo: Location (-79.47424161434174, 71.09717464447021, -1070.375) too far away from hit block BlockPos{x=-80, y=72, z=-1070}.
 [22Aug2025 03:54:27.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Set own game mode to Creative Mode]
 [22Aug2025 03:54:44.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Set own game mode to Survival Mode]
+[22Aug2025 03:59:57.467] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Melosito_Neo lost connection: Disconnected
+[22Aug2025 03:59:57.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Melosito_Neo left the game
