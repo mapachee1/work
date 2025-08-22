@@ -9534,3 +9534,11 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmers
 [22Aug2025 03:09:26.511] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [22Aug2025 03:09:26.523] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [22Aug2025 03:11:22.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Melosito_Neo has reached the goal [The Factory Must Grow!]
+[22Aug2025 03:14:26.510] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Aug2025 03:14:26.521] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Aug2025 03:15:49.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Melosito_Neo has made the advancement [Now You're Growing With Hoppers]
+[22Aug2025 03:19:26.521] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Aug2025 03:19:26.534] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Aug2025 03:20:31.134] [Server thread/INFO] [naturescompass/]: Starting search: 64 sample space, 50000 max samples, 10000 max radius
+[22Aug2025 03:20:31.187] [Server thread/INFO] [naturescompass/]: Search succeeded: 461 radius, 88 samples
+[22Aug2025 03:21:00.721] [Worker-Main-14/DEBUG] [mixin/]: Mixing JigsawPlacementPlacerMixin from waystones.mixins.json into net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement$Placer

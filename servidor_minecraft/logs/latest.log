@@ -1120,3 +1120,6 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmers
 [22Aug2025 02:56:27.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Set own game mode to Survival Mode]
 [22Aug2025 03:04:34.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Melosito_Neo has made the advancement [Let It Grow]
 [22Aug2025 03:11:22.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Melosito_Neo has reached the goal [The Factory Must Grow!]
+[22Aug2025 03:15:49.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Melosito_Neo has made the advancement [Now You're Growing With Hoppers]
+[22Aug2025 03:20:31.134] [Server thread/INFO] [naturescompass/]: Starting search: 64 sample space, 50000 max samples, 10000 max radius
+[22Aug2025 03:20:31.187] [Server thread/INFO] [naturescompass/]: Search succeeded: 461 radius, 88 samples
