@@ -5923,6 +5923,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/super_glue": {
+    "criteria": {
+      "has_item": "2025-08-22 22:09:19 +0000"
+    },
+    "done": true
+  },
   "ae2wtlib:recipes/wireless_universal_terminal/upgrade_pattern_access": {
     "criteria": {
       "has_wit": "2025-08-22 21:07:48 +0000"
@@ -5998,6 +6004,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/propeller": {
+    "criteria": {
+      "has_item": "2025-08-22 22:09:19 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/tools/paintballs_magenta": {
     "criteria": {
       "has_matter_ball": "2025-08-22 21:49:05 +0000"
@@ -6010,11 +6022,35 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/encased_fan": {
+    "criteria": {
+      "has_item": "2025-08-22 22:09:19 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/whisk": {
+    "criteria": {
+      "has_item": "2025-08-22 22:09:19 +0000"
+    },
+    "done": true
+  },
   "ae2wtlib:recipes/quantum_bridge_card": {
     "criteria": {
       "has_wit": "2025-08-22 21:07:48 +0000",
       "has_wpt": "2025-08-22 21:07:48 +0000",
       "has_wct": "2025-08-22 21:07:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_iron_pickaxe": "2025-08-22 22:10:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-08-22 22:10:27 +0000"
     },
     "done": true
   },
@@ -6057,6 +6093,12 @@
   "ae2:recipes/misc/tools/paintballs_pink": {
     "criteria": {
       "has_matter_ball": "2025-08-22 21:49:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+    "criteria": {
+      "has_iron_pickaxe": "2025-08-22 22:10:27 +0000"
     },
     "done": true
   },
