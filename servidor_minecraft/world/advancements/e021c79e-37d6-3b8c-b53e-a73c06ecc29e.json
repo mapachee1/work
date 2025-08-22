@@ -4932,6 +4932,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/portable_fluid_interface": {
+    "criteria": {
+      "has_item": "2025-08-22 03:54:10 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/steam_whistle": {
     "criteria": {
       "has_item": "2025-08-22 02:20:15 +0000"
@@ -4965,6 +4971,12 @@
   "create:copper": {
     "criteria": {
       "0": "2025-08-22 02:20:15 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/spout": {
+    "criteria": {
+      "has_item": "2025-08-22 03:54:10 +0000"
     },
     "done": true
   },
@@ -5310,6 +5322,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/building_blocks/fir_wood": {
+    "criteria": {
+      "has_log": "2025-08-22 03:54:01 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/smart_fluid_pipe": {
     "criteria": {
       "has_item": "2025-08-22 02:20:15 +0000"
@@ -5365,9 +5383,21 @@
     },
     "done": false
   },
+  "biomesoplenty:recipes/building_blocks/fir_planks": {
+    "criteria": {
+      "has_logs": "2025-08-22 03:54:01 +0000"
+    },
+    "done": true
+  },
   "incendium:ash_barrens/root": {
     "criteria": {
       "requirement": "2025-08-22 02:38:08 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/copper_door": {
+    "criteria": {
+      "has_item": "2025-08-22 03:54:10 +0000"
     },
     "done": true
   },
@@ -5659,6 +5689,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/item_drain": {
+    "criteria": {
+      "has_item": "2025-08-22 03:54:10 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/crafting/kinetics/black_seat": {
     "criteria": {
       "has_wool": "2025-08-22 02:56:06 +0000"
@@ -5776,6 +5812,12 @@
   "mekanismgenerators:heat_generator": {
     "criteria": {
       "heat_generator": "2025-08-22 02:24:24 +0000"
+    },
+    "done": true
+  },
+  "create:copper_casing": {
+    "criteria": {
+      "0": "2025-08-22 03:54:07 +0000"
     },
     "done": true
   },
