@@ -1131,3 +1131,4 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmers
 [26Aug2025 05:04:24.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Melosito_Neo has made the advancement [Not even afraid of death]
 [26Aug2025 05:21:57.143] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Melosito_Neo moved too quickly! 9.974436294679265,1.2491870787446828,-0.962865358851559
 [26Aug2025 05:21:57.149] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4018ms or 80 ticks behind
+[26Aug2025 05:48:18.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Melosito_Neo has made the advancement [Knowledge raises the soul]
