@@ -1101,3 +1101,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmers
 [26Aug2025 03:41:47.772] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Melosito_Neo moved too quickly! 500.5474339690263,-44.863530411506915,191.1738023986427
 [26Aug2025 03:55:41.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Melosito_Neo has made the advancement [Bonk!]
 [26Aug2025 03:56:31.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Melosito_Neo has made the advancement [The Andesite Age]
+[26Aug2025 04:07:19.827] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager 4f8a7546: RandomSpreadSearchWorker starting with 10000 max radius, 100000 max samples
+[26Aug2025 04:07:19.860] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager 4f8a7546: RandomSpreadSearchWorker succeeded with 291 radius, 1 samples
+[26Aug2025 04:10:36.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Melosito_Neo has reached the goal [Bone Crusher]
+[26Aug2025 04:11:06.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Melosito_Neo has made the advancement [Planting the Past]

@@ -6536,7 +6536,7 @@
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "requirement": "2025-08-26 03:58:08 +0000"
+      "requirement": "2025-08-26 04:13:08 +0000"
     },
     "done": false
   },
@@ -6582,6 +6582,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_carpet": {
+    "criteria": {
+      "has_black_wool": "2025-08-26 04:08:56 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/water_wheel": {
     "criteria": {
       "has_item": "2025-08-26 03:56:13 +0000"
@@ -6618,6 +6624,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/spruce_fence": {
+    "criteria": {
+      "has_planks": "2025-08-26 04:09:16 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/mechanical_plough": {
     "criteria": {
       "has_item": "2025-08-26 03:56:32 +0000"
@@ -6630,15 +6642,45 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/spruce_window": {
+    "criteria": {
+      "has_ingredient": "2025-08-26 04:09:16 +0000"
+    },
+    "done": true
+  },
+  "explorerscompass:explorers_compass": {
+    "criteria": {
+      "has_recipe": "2025-08-26 04:08:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_button": {
+    "criteria": {
+      "has_planks": "2025-08-26 04:09:16 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/mechanical_harvester": {
     "criteria": {
       "has_item": "2025-08-26 03:56:32 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_bed": {
+    "criteria": {
+      "has_black_wool": "2025-08-26 04:08:56 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/curiosities/minecart_coupling": {
     "criteria": {
       "has_item": "2025-08-26 03:56:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-08-26 04:09:16 +0000"
     },
     "done": true
   },
@@ -6840,6 +6882,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/spruce_sign": {
+    "criteria": {
+      "has_planks": "2025-08-26 04:09:16 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/mechanical_bearing": {
     "criteria": {
       "has_item": "2025-08-26 03:56:32 +0000"
@@ -6864,15 +6912,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_banner": {
+    "criteria": {
+      "has_black_wool": "2025-08-26 04:08:56 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/logistics/andesite_tunnel": {
     "criteria": {
       "has_item": "2025-08-26 03:56:13 +0000"
     },
     "done": true
   },
+  "explorerscompass:explorers_compass_cobweb": {
+    "criteria": {
+      "has_recipe": "2025-08-26 04:08:50 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/millstone": {
     "criteria": {
       "has_item": "2025-08-26 03:56:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_slab": {
+    "criteria": {
+      "has_planks": "2025-08-26 04:09:16 +0000"
     },
     "done": true
   },
@@ -6930,15 +6996,45 @@
     },
     "done": true
   },
+  "explorerscompass:explorers_compass_cracked_stone_bricks": {
+    "criteria": {
+      "has_cracked_stone_bricks": "2025-08-26 04:08:50 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/bone_crusher": {
+    "criteria": {
+      "coded_trigger": "2025-08-26 04:10:36 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/cogwheel": {
     "criteria": {
       "has_item": "2025-08-26 03:56:13 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/redstone/spruce_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-08-26 04:09:16 +0000"
+    },
+    "done": true
+  },
   "mekanism:heat_transport": {
     "criteria": {
       "basic_thermodynamic_conductor": "2025-08-26 03:30:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_door": {
+    "criteria": {
+      "has_planks": "2025-08-26 04:09:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-08-26 04:09:16 +0000"
     },
     "done": true
   },
@@ -6954,9 +7050,27 @@
     },
     "done": true
   },
+  "minecraft:husbandry/plant_any_sniffer_seed": {
+    "criteria": {
+      "pitcher_pod": "2025-08-26 04:11:06 +0000"
+    },
+    "done": true
+  },
+  "create:fan_processing": {
+    "criteria": {
+      "0": "2025-08-26 03:59:21 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/metal_bracket": {
     "criteria": {
       "has_item": "2025-08-26 03:56:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_stairs": {
+    "criteria": {
+      "has_planks": "2025-08-26 04:09:16 +0000"
     },
     "done": true
   },
