@@ -1106,3 +1106,8 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmers
 [26Aug2025 04:10:36.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Melosito_Neo has reached the goal [Bone Crusher]
 [26Aug2025 04:11:06.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Melosito_Neo has made the advancement [Planting the Past]
 [26Aug2025 04:13:50.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Melosito_Neo has made the advancement [Suit Up]
+[26Aug2025 04:24:00.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Melosito_Neo has made the advancement [Take Aim]
+[26Aug2025 04:25:11.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Melosito_Neo> a
+[26Aug2025 04:25:21.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] hgola
+[26Aug2025 04:25:58.374] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Melosito_Neo moved too quickly! -365.0,-77.5,-499.0
+[26Aug2025 04:26:01.124] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Melosito_Neo moved too quickly! 502.64262087551083,-43.5,185.03370501205995
