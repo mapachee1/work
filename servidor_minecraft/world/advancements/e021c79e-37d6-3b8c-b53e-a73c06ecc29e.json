@@ -6536,7 +6536,7 @@
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "requirement": "2025-08-26 04:33:08 +0000"
+      "requirement": "2025-08-26 04:43:11 +0000"
     },
     "done": false
   },
@@ -6606,6 +6606,12 @@
     },
     "done": true
   },
+  "reliquary:recipes/misc/mercy_cross": {
+    "criteria": {
+      "has_withered_rib": "2025-08-26 04:39:23 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/large_cogwheel_from_little": {
     "criteria": {
       "has_item": "2025-08-26 03:56:13 +0000"
@@ -6669,6 +6675,12 @@
   "create:recipes/building_blocks/spruce_window": {
     "criteria": {
       "has_ingredient": "2025-08-26 04:09:16 +0000"
+    },
+    "done": true
+  },
+  "reliquary:recipes/misc/uncrafting/bone": {
+    "criteria": {
+      "has_rib_bone": "2025-08-26 04:40:21 +0000"
     },
     "done": true
   },
@@ -7116,6 +7128,12 @@
     },
     "done": true
   },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2025-08-26 04:39:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_stone_brick_stairs": {
     "criteria": {
       "has_mossy_stone_bricks": "2025-08-26 04:18:19 +0000"
@@ -7176,6 +7194,12 @@
     },
     "done": true
   },
+  "reliquary:recipes/misc/uncrafting/wither_skeleton_skull": {
+    "criteria": {
+      "has_withered_rib": "2025-08-26 04:39:23 +0000"
+    },
+    "done": true
+  },
   "create:fan_processing": {
     "criteria": {
       "0": "2025-08-26 03:59:21 +0000"
@@ -7203,6 +7227,12 @@
   "create:recipes/misc/crafting/kinetics/gearshift": {
     "criteria": {
       "has_item": "2025-08-26 03:56:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/skull_banner_pattern": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2025-08-26 04:39:20 +0000"
     },
     "done": true
   },
