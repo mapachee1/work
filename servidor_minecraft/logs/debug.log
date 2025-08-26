@@ -12387,3 +12387,8 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmers
 [26Aug2025 06:08:15.202] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [26Aug2025 06:13:15.189] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [26Aug2025 06:13:15.200] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Aug2025 06:18:15.189] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Aug2025 06:18:15.200] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Aug2025 06:23:15.189] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Aug2025 06:23:15.199] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Aug2025 06:25:51.079] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-192, y=86, z=-993} BlockPos{x=-192, y=87, z=-993}
