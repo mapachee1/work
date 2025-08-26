@@ -1099,3 +1099,5 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmers
 [26Aug2025 03:28:15.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melosito_Neo: Set the time to 1000]
 [26Aug2025 03:36:33.715] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Melosito_Neo moved too quickly! 502.77633026353203,-46.67420925798115,185.18361219746248
 [26Aug2025 03:41:47.772] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Melosito_Neo moved too quickly! 500.5474339690263,-44.863530411506915,191.1738023986427
+[26Aug2025 03:55:41.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Melosito_Neo has made the advancement [Bonk!]
+[26Aug2025 03:56:31.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Melosito_Neo has made the advancement [The Andesite Age]
